@@ -1,2 +1,2 @@
 UNO starting semester, Fall 2022
-Designation, Computer Science major
+Designation, major in Computer Science
